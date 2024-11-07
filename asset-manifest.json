@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catoff-puzzle/static/css/main.cd4665e1.css",
+    "main.js": "/catoff-puzzle/static/js/main.90438a1f.js",
+    "static/js/453.f981ce44.chunk.js": "/catoff-puzzle/static/js/453.f981ce44.chunk.js",
+    "index.html": "/catoff-puzzle/index.html",
+    "main.cd4665e1.css.map": "/catoff-puzzle/static/css/main.cd4665e1.css.map",
+    "main.90438a1f.js.map": "/catoff-puzzle/static/js/main.90438a1f.js.map",
+    "453.f981ce44.chunk.js.map": "/catoff-puzzle/static/js/453.f981ce44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4665e1.css",
+    "static/js/main.90438a1f.js"
+  ]
+}
